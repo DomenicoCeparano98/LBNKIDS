@@ -26,5 +26,7 @@
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:187090418129:ios:303dcf06bf49c102d3c8f0</string>
+	<key>DATABASE_URL</key>
+	<string>https://lbnkids-default-rtdb.europe-west1.firebasedatabase.app</string>
 </dict>
 </plist>
